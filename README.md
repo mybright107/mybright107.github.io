@@ -1,2 +1,2 @@
-# mybright107.github.lis.io
+# mybright107.github.io
 HTML Practice Codes 
